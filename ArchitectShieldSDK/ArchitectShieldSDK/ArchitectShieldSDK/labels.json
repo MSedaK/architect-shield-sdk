@@ -1,0 +1,7 @@
+{
+  "@Security:UnauthorizedAccess": "Unauthorized access attempt detected.",
+  "@Validator:FieldRequired": "The specified field is mandatory and cannot be null.",
+  "@Audit:OperationSuccess": "The transaction has been processed successfully.",
+  "@Error:InternalSystemFault": "A critical system fault occurred. Please contact the administrator.",
+  "@Network:ConnectionTimeout": "The remote server did not respond within the allocated time."
+}
