@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36930.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitectShieldSDK", "ArchitectShieldSDK\ArchitectShieldSDK\ArchitectShieldSDK.csproj", "{2E5C5ADE-69A9-46B8-8916-0EADBB96CE3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitectShieldSDK.CodeFixes", "ArchitectShieldSDK\ArchitectShieldSDK.CodeFixes\ArchitectShieldSDK.CodeFixes.csproj", "{32687E91-08AC-4544-A889-4186EDD4BD3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitectShieldSDK.Package", "ArchitectShieldSDK\ArchitectShieldSDK.Package\ArchitectShieldSDK.Package.csproj", "{B38EBCED-59EA-479A-BC99-B88778196012}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitectShieldSDK.Test", "ArchitectShieldSDK\ArchitectShieldSDK.Test\ArchitectShieldSDK.Test.csproj", "{B248EA3E-F085-4921-BFB7-E81223A8A27F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitectShieldSDK.Vsix", "ArchitectShieldSDK\ArchitectShieldSDK.Vsix\ArchitectShieldSDK.Vsix.csproj", "{CBF5DAB7-536F-4783-9C6F-ED0A4641EDC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E5C5ADE-69A9-46B8-8916-0EADBB96CE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5C5ADE-69A9-46B8-8916-0EADBB96CE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5C5ADE-69A9-46B8-8916-0EADBB96CE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5C5ADE-69A9-46B8-8916-0EADBB96CE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32687E91-08AC-4544-A889-4186EDD4BD3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32687E91-08AC-4544-A889-4186EDD4BD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32687E91-08AC-4544-A889-4186EDD4BD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32687E91-08AC-4544-A889-4186EDD4BD3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B38EBCED-59EA-479A-BC99-B88778196012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38EBCED-59EA-479A-BC99-B88778196012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38EBCED-59EA-479A-BC99-B88778196012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38EBCED-59EA-479A-BC99-B88778196012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B248EA3E-F085-4921-BFB7-E81223A8A27F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B248EA3E-F085-4921-BFB7-E81223A8A27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B248EA3E-F085-4921-BFB7-E81223A8A27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B248EA3E-F085-4921-BFB7-E81223A8A27F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF5DAB7-536F-4783-9C6F-ED0A4641EDC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF5DAB7-536F-4783-9C6F-ED0A4641EDC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF5DAB7-536F-4783-9C6F-ED0A4641EDC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF5DAB7-536F-4783-9C6F-ED0A4641EDC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDC51700-9912-4FDB-9D3E-A9A7F5151CB0}
+	EndGlobalSection
+EndGlobal
